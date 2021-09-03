@@ -1,0 +1,9 @@
+{
+	"name": "ERADemoDataFactory",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d775d35-a752-4ede-8fd7-1437af378d65",
+		"tenantId": "7d76d45a-a201-4a68-bf3a-597f0a5fa533"
+	}
+}
